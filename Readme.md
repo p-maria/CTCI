@@ -11,7 +11,7 @@ This repository will contain Python attempts on coding questions listed in the [
 - [ ] Difference K
 - [ ] Equation
 - [ ] Anagram Search
-- [ ] Ransom Note
+- [x] [Ransom Note](src/python/_00_technical-questions/ransom-note.py)
 - [ ] Permutations
 - [ ] Median
 - [ ] Common Elements
